@@ -29,3 +29,7 @@ safetensors
 openvino
 jupyterlab
 ```
+## Live Demo
+
+Give the model a spin in your browser—no install needed!  
+👉 [SentIntel on Hugging Face Spaces](https://huggingface.co/spaces/Kaiyeee/SentIntel)
